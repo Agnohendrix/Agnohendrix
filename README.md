@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Agnohendrix</h1>
-<h3 align="center">A Computer Science long-life student</h3>
+<h3 align="center">A Computer Science lifelong student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agnohendrix" alt="agnohendrix" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Symfony**
+- 🌱 I’m currently learning [<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>](https://flutter.dev/) [<img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>](https://symfony.com/)
 
-- 💬 Ask me about **Android, PHP**
+- 💬 Ask me about [<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>](https://developer.android.com/) [<img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/>](https://www.php.net/)
 
 - 📫 Reach me at [**agnohendrix@gmail.com**](mailto:agnohendrix@gmail.com)
 
