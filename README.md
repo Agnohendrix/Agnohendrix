@@ -17,7 +17,7 @@
 
 <br/>
 
-[<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agnohendrix&show_icons=true&theme=prussian" alt="agnohendrix" /></p>](https://github.com/Agnohendrix)
+[<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agnohendrix&show_icons=true&theme=prussian" alt="agnohendrix" /></p>](https://github.com/Agnohendrix#user-activity-overview)
 
 [<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnohendrix&layout=compact&theme=prussian" alt="agnohendrix" /></p>](https://github.com/Agnohendrix?tab=repositories)
 
