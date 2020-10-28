@@ -11,7 +11,7 @@
 
 <h3 align="center">:wrench: Currently working on :wrench:</h3>
 
-[<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agnohendrix&repo=Thiefbot&show_owner=true&theme=prussian" alt="agnohendrix" /></p>](https://github.com/Agnohendrix/Thiefbot)
+[<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agnohendrix&repo=DartThiefbot&show_owner=true&theme=prussian" alt="agnohendrix" /></p>](https://github.com/Agnohendrix/DartThiefBot)
 
 <h4 align="center">:point_right: Contributions are welcome :point_left:</h4>
 
